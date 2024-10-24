@@ -1,7 +1,5 @@
 # Spotify_Dashboard
 
-Here’s a LinkedIn post to showcase your skills with a human touch:
-
 🎧 Spotify Dashboard: Unveiling Insights with Data 🎶
 
 Excited to share this Spotify data dashboard I recently created! 🎉 Using Power BI, I analyzed over 383 billion streams to uncover key insights into popular music trends. Here’s a snapshot of what this dashboard reveals:
